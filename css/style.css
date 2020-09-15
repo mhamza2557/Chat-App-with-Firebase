@@ -1,0 +1,45 @@
+td, th {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#messages {
+    width: 99%;
+    background-color: dodgerblue;
+}
+
+.container {
+    background-color: dodgerblue;
+}
+
+button {
+    width: 100%;
+}
+
+td {
+    border: 1px solid #ffffff;
+    padding: 8px;
+}
+
+#message {
+    font-size: 55px;
+    width: 100%;
+}
+
+#messageBtn {
+    font-size: 30px;
+    width: 40%;
+}
+
+.scroll-y {
+    height: 380px;
+    position: relative;
+    overflow: auto;
+}
+
+th {
+    background: #dc3545;
+    position: sticky;
+    top: 0;
+    height: 53px;
+}
